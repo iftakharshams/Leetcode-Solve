@@ -7,5 +7,4 @@ class Solution:
                 return [seen[diff], i]
             else:
                 seen[nums[i]] = i
-
-            
+                
