@@ -2,4 +2,5 @@
 
 ### LeetCode Algorithm
 
-| # | Title | Solution | Difficulty |
+| #   | Title | Solution | Difficulty |
+| --- | ----- | -------- | ---------- |
