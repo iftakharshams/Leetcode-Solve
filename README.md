@@ -9,4 +9,4 @@
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                         | [Python](./Python/palindrome_number.py)                            | Easy       |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                                               | [Python](./Python/merge_two_sorted_list.py)                        | Easy       |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                                                 | [Python](./Python/permutation_in_string.py)                        | Medium     |
-| 567 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) | [Python](./Python/smallest_range_covering_elements_from_k_list.py) | Hard       |
+| 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) | [Python](./Python/smallest_range_covering_elements_from_k_list.py) | Hard       |
