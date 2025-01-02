@@ -12,4 +12,4 @@
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) | [Python](./Python/smallest_range_covering_elements_from_k_list.py) | Hard       |
 | 670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap/description/) | [Python](./Python/maximum_swap.py) | Medium       |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Python](./Python/rotate_string.py) | Easy       |
-| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | [Python](./Python/rotate_string.py) | Medium       |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | [Python](./Python/minimum_add_to_make_parentheses_valid.py) | Medium       |
