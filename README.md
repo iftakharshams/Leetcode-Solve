@@ -13,4 +13,4 @@
 | 670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap/description/) | [Python](./Python/maximum_swap.py) | Medium       |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Python](./Python/rotate_string.py) | Easy       |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | [Python](./Python/minimum_add_to_make_parentheses_valid.py) | Medium       |
-| 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) | [Python](./Python/minimum_add_to_make_parentheses_valid.py) | Medium       |
+| 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) | [Python](./Python/flip_equivalent_binary_trees.py) | Medium       |
