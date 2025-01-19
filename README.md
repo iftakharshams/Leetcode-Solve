@@ -16,3 +16,4 @@
 | 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) | [Python](./Python/flip_equivalent_binary_trees.py) | Medium       |
 | 962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/) | [Python](./Python/maximum_width_ramp.py) | Medium       |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/) | [Python](./Python/parsing_a_boolean_expression.py) | Hard       |
+
