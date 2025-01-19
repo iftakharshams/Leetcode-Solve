@@ -15,4 +15,3 @@
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | [Python](./Python/minimum_add_to_make_parentheses_valid.py) | Medium       |
 | 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) | [Python](./Python/flip_equivalent_binary_trees.py) | Medium       |
 | 962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/) | [Python](./Python/maximum_width_ramp.py) | Medium       |
-
